@@ -1,0 +1,281 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+
+
+
+	<script>
+    vice = {
+        config: {
+            viceAccountId: "chipotle",
+            viceSiteId: "chipotle",
+            viceZoneId: "",
+            viceSectionId: ""
+        }
+    }
+</script>
+
+<script src="//vice-prod.sdiapi.com/vice_loader/chipotle/chipotle">
+</script>
+
+	
+    <script charset='UTF-8'>
+        window['adrum-start-time'] = new Date().getTime();
+        (function(config){
+            config.appKey = 'AD-AAB-AAJ-BJT';
+            config.adrumExtUrlHttp = 'http://cdn.appdynamics.com';
+            config.adrumExtUrlHttps = 'https://cdn.appdynamics.com';
+            config.beaconUrlHttp = 'http://pdx-col.eum-appdynamics.com';
+            config.beaconUrlHttps = 'https://pdx-col.eum-appdynamics.com';
+            config.xd = {enable : true};
+            config.spa = {"spa2" : true};
+        })(window['adrum-config'] || (window['adrum-config'] = {}));
+    </script>
+
+    
+    
+    
+    
+    
+        <noscript data-vice-authority>
+            <script src='//cdn.appdynamics.com/adrum/adrum-latest.js'></script>
+        </noscript>
+        <script> vice.engage(); </script>
+    
+
+
+
+
+	
+
+    
+    
+        <noscript data-vice-authority>
+    
+            
+            <script>
+                // load Branch
+                (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode autoAppIndex banner closeBanner closeJourney creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode trackCommerceEvent logEvent disableTracking".split(" "), 0);
+                // init Branch
+                branch.init('key_live_hfK28UOcUBBlr9owR5EW2gpdtAkb0vgc');
+            </script>
+
+    
+    
+        </noscript>
+        <script> vice.engage(); </script>
+    
+
+
+
+	
+    
+    
+    
+    
+        <noscript data-vice-authority>
+            <script src="//assets.adobedtm.com/cfe1a3428264/a70a8339ebf1/launch-e2c5b1e61468.min.js" async></script>
+        </noscript>
+        <script> vice.engage(); </script>
+    
+
+
+	
+        
+        
+        
+        
+                <noscript data-vice-authority>
+                        <script src="https://chpwv.fs.liveperson.com/public.bot-iframe.js" async></script>
+                </noscript>
+                <script> vice.engage(); </script>
+        
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+
+
+
+<meta property="og:url" name="og:url" content="https://chipotle.com/content/chipotle/us/en/order/home.html"/>
+<meta property="og:site_name" name="og:site_name" content="Chipotle"/>
+<meta property="og:title" name="og:title" content="Mexican Food - Restaurant &amp; Catering - Chipotle Mexican Grill"/>
+<meta property="og:description" name="og:description" content="Order tacos, burritos, salads, bowls and more at Chipotle Mexican Grill. Order online for pick up or delivery and join our rewards program today."/>
+<meta property="og:type" name="og:type" content="website"/>
+<meta property="og:image" name="og:image" content="https://www.chipotle.com/content/dam/chipotle/global/menu/meal-types/cmg-10001-burrito/web-desktop/lifestyle.jpg"/>
+<meta property="twitter:card" name="twitter:card" content="Order tacos, burritos, salads, bowls and more at Chipotle Mexican Grill. Order online for pick up or delivery and join our rewards program today."/>
+<meta property="twitter:site" name="twitter:site" content="Chipotle"/>
+
+<meta property="twitter:title" name="twitter:title" content="Mexican Food - Restaurant &amp; Catering - Chipotle Mexican Grill"/>
+<meta property="twitter:description" name="twitter:description" content="Order tacos, burritos, salads, bowls and more at Chipotle Mexican Grill. Order online for pick up or delivery and join our rewards program today."/>
+<meta property="twitter:image" name="twitter:image" content="https://www.chipotle.com/content/dam/chipotle/global/menu/meal-types/cmg-10001-burrito/web-desktop/lifestyle.jpg"/>
+<meta name="aem.environment" content="prod"/>
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/foundation/clientlibs/main.css" type="text/css">
+<script src="/etc.clientlibs/clientlibs/granite/jquery.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/jquery.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/shared.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/main.js"></script>
+
+
+
+    
+    
+
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/wcm/foundation/components/page/responsive.css" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>Mexican Food - Restaurant &amp; Catering - Chipotle Mexican Grill</title>
+</head>
+    <body>
+
+
+<div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--phone--12 ">
+    
+    <div class="html-container aem-GridColumn--phone--12 aem-GridColumn--phone--newline aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--phone--0">
+   
+    
+        
+
+    
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Chipotle Mexican Grill",
+  "url": "https://www.chipotle.com",
+  "logo": "https://www.chipotle.com/content/dam/poc/order/images/logos/cmg-medallion-logo.svg",
+  "sameAs": [
+    "https://www.facebook.com/chipotle/",
+    "https://twitter.com/chipotletweets/",
+    "https://www.instagram.com/chipotle/"
+  ]
+}
+</script>
+
+   
+    
+        
+
+    
+</div>
+<div class="spa-renderer base-component parbase aem-GridColumn aem-GridColumn--default--12">
+   
+    
+        
+
+    
+
+
+
+    
+
+    <script>
+        //appBodyContent injection script
+        var appBodyContent = `<meta content="width=device-width,initial-scale=1.0" name="viewport">
+
+<div id="app"></div>`;
+        var el = document.createElement("div");
+        el.innerHTML = appBodyContent;
+        document.body.insertAdjacentHTML('afterbegin', `<meta content="width=device-width,initial-scale=1.0" name="viewport">
+
+<div id="app"></div>`);
+    </script>
+
+    
+
+    
+
+    
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgPromoTopAuthenticatedMobileCanada = {"master":{"jcr:primaryType":"nt:unstructured","titleMain":"RIGHT TO YOU","subtitleMain@ContentType":"text/html","subtitleMain":"<p style=\"text-align: center;\">All your faves made fresh everyday. Share the guac or don\u2019t share the guac, that\u2019s up to you.<\/p>\n","legalTextColorMain":"#FFFFFF","buttonColorMain":"#AD2118","subtitleSecondary@ContentType":"text/html","buttonTextMain":"ORDER NOW","titleMainPlacement":true,"subtitleMainColor":"#000000","preTitleMain":"REAL FOOD","isContentRightAligned":false,"centerAlignedTextOnly":false,"shouldLoopVideo":false,"legalTextSecondary@ContentType":"text/html","buttonColorSecondary":"#451400","legalTextColorSecondary":"#451400","dualPromo":false,"preTitleMainColor":"#451400","backgroundVideoUrl":"/content/dam/poc/order/images/promo-banners/general-aug2021/mobile.mp4","titleMainColor":"#451400","subtitleSecondaryColor":"#451400","showPromoBanner":true,"buttonLinkMain":"#menu","legalTextMain@ContentType":"text/html","shouldLoopSecondaryVideo":false,"shouldLoopMainVideo":false,"titleSecondaryColor":"#451400"}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgSystemFlags = {"master":{"jcr:primaryType":"nt:unstructured","json":"<p>{&quot;headerPages&quot;:[&quot;/allergens&quot;,&quot;/rewards&quot;,&quot;/ingredients&quot;,&quot;/about-us/accessibility&quot;,&quot;/about-us/rewards-terms&quot;,&quot;/about-us/sustainability&quot;,&quot;/about-us/terms-of-use&quot;,&quot;/about-us/feedback-rules-es&quot;,&quot;/about-us/feedback-rules&quot;,&quot;/about-us/privacy-policy&quot;,&quot;/about-us/transparency&quot;,&quot;/rewards-faq&quot;,&quot;/nutrition-calculator&quot;,&quot;/catering&quot;,&quot;/rewards-doublepointsday&quot;,&quot;/gifts-and-gear&quot;,&quot;/error-page/500&quot;,&quot;/error-page/404&quot;,&quot;/meals/ingredients/avocado&quot;,&quot;/meals/ingredients/beef&quot;,&quot;/meals/ingredients/bayleaf&quot;,&quot;/meals/ingredients/bellpepper&quot;,&quot;/contact-us&quot;,&quot;/avocadoday&quot;,&quot;/soccerbogo&quot;,&quot;/faxordering&quot;,&quot;/AVOCADODAY&quot;,&quot;/chipotlerewardme&quot;,&quot;/mob-app&quot;,&quot;/disrupt&quot;,&quot;/datarequest&quot;,&quot;/freedelivery&quot;,&quot;/gamewatch--rules&quot;,&quot;/farmers&quot;,&quot;/nurse&quot;,&quot;/halloween&quot;,&quot;/freeting&quot;,&quot;/veterans&quot;,&quot;/holidaygiftcards&quot;,&quot;/teachers&quot;,&quot;/holidayextravaganza&quot;,&quot;/donotsell&quot;,&quot;/lifestylebowls&quot;,&quot;/freedeliverysundays&quot;,&quot;/guacmode&quot;,&quot;/gmtwo&quot;,&quot;/hockeybogo&quot;,&quot;/freedeliverybowl&quot;,&quot;/values&quot;]}<\/p>\n","json@ContentType":"text/html"}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgGuacMode = {"master":{"jcr:primaryType":"nt:unstructured","message":"We'll drop Guac Mode rewards in your account throughout the year."}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgDynamicUpsell = {"master":{"jcr:primaryType":"nt:unstructured","json":"<p>[{&quot;cmgId&quot;:&quot;CMG-9004&quot;,&quot;imageUrl&quot;:&quot;/content/dam/chipotle/global/menu/menu-items/cmg-9004-churros/mobile-app/order.png&quot;,&quot;shortName&quot;:&quot;Churros&quot;},{&quot;cmgId&quot;:&quot;CMG-1002&quot;,&quot;imageUrl&quot;:&quot;/content/dam/chipotle/global/menu/menu-items/cmg-1002-chips/web-mobile/chips.png&quot;,&quot;shortName&quot;:&quot;Chips&quot;},{&quot;cmgId&quot;:&quot;CMG-1003&quot;,&quot;imageUrl&quot;:&quot;/content/dam/chipotle/global/menu/menu-items/cmg-1003-chips-&amp;-guacamole/web-mobile/order.png&quot;,&quot;shortName&quot;:&quot;Chips &amp; Guac&quot;},{&quot;cmgId&quot;:&quot;CMG-2810&quot;,&quot;imageUrl&quot;:&quot;/content/dam/chipotle/global/menu/menu-items/cmg-2810-mexican-coca-cola/mobile-app/order.png&quot;,&quot;shortName&quot;:&quot;Mexican Coca-Cola&quot;}]<\/p>\n","json@ContentType":"text/html"}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgPromoTopAuthenticatedDesktopCanada = {"master":{"jcr:primaryType":"nt:unstructured","titleMain":"RIGHT TO YOU","subtitleMain@ContentType":"text/html","subtitleMain":"<p style=\"text-align: center;\">All your faves made fresh everyday. Share the guac or don\u2019t share the guac, that\u2019s up to you.<br>\n<\/p>\n<p>&nbsp;<\/p>\n","legalTextColorMain":"#FFFFFF","buttonColorMain":"#AD2118","subtitleSecondary@ContentType":"text/html","imageUrlMainDesktop":"/content/dam/poc/order/images/promo-banners/btf2020/TRANSPARENT-DSEKTOP.png","buttonTextMain":"ORDER NOW","titleMainPlacement":false,"subtitleMainColor":"#000000","preTitleMain":"REAL FOOD","isContentRightAligned":false,"centerAlignedTextOnly":true,"shouldLoopVideo":false,"legalTextSecondary@ContentType":"text/html","buttonColorSecondary":"#451400","legalTextColorSecondary":"#451400","dualPromo":false,"preTitleMainColor":"#451400","backgroundVideoUrl":"/content/dam/poc/order/images/promo-banners/general-aug2021/desktop.mp4","imageUrlMainAltText":"burrito bowl and chips","titleMainColor":"#451400","subtitleSecondaryColor":"#451400","showPromoBanner":true,"buttonLinkMain":"#menu","legalTextMain@ContentType":"text/html","shouldLoopSecondaryVideo":false,"shouldLoopMainVideo":false,"legalTextMain":"<p style=\"text-align: center;\">Higher menu prices and additional service fees apply for delivery. $12 min/$200 max, excl tax. Valid 8/9-8/29/2021. Additional terms &amp; conditions: <a href=\"http://www.chipotle.ca/zerodollardelivery\">www.chipotle.ca/zerodollardelivery<\/a><\/p>\n","titleSecondaryColor":"#451400"}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgFeaturedPCE = {"master":{"jcr:primaryType":"nt:unstructured","header":"1-Tap Orders","subHeader":"Sometimes it's hard to choose. We made it easy with these favorites.","SubHeader@ContentType":"text/html","restaurantSelectedHeader":"1-Tap Orders","SubHeader":"<p>Ever wonder what your favorite influencers order? Find your Chipotle to see their featured meals.<\/p>\n","ResturantSelectedHeader":"ONE CLICK COLLECTION","subHeader@ContentType":"text/plain"}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgGroupOrderCard = {"master":{"jcr:primaryType":"nt:unstructured","detailsCopy":"<ul>\n<li>Invite up to 20 people&nbsp;<\/li>\n<li>Normal menu pricing<\/li>\n<li>Full menu&nbsp;<\/li>\n<li>Personalized meals&nbsp;<\/li>\n<li>Organizer pays<\/li>\n<li style=\"text-align: left;\"><b>Order and eat today<\/b><\/li>\n<\/ul>\n","lightCopy2@ContentType":"text/html","titleColor":"#ffffff","buttonColor":"#b68207","boldCopyColor":"#451400","imageUrl":"/content/dam/poc/order/images/large-order-promo/Group-Ordering-Tile_570x190@2x.jpg","detailsCopyColor":"#786259","detailsCopy@ContentType":"text/html","buttonTextColor":"#ffffff","lightCopy2":"<p>Invite up to 15 people&nbsp;<\/p>\n<p>Normal menu pricing Full menu&nbsp;<\/p>\n<p>Personalized meals&nbsp;<\/p>\n<p>Organizer pays Order and eat today<\/p>\n","title":"Group Order","buttonText":"Start Order Now","backgroundColor":"#ffffff"}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgCateringCard = {"master":{"jcr:primaryType":"nt:unstructured","detailsCopy":"<ul>\n<li>From 6 to 200 people<\/li>\n<li>Starting at $8.25* / person<\/li>\n<li>Build Your Own<\/li>\n<li>Burritos by the Box<\/li>\n<li>Chips &amp; Salsa<\/li>\n<li><b>Requires 24 hours notice<\/b><\/li>\n<\/ul>\n","titleColor":"#ffffff","buttonColor":"#b68207","boldCopyColor":"#451400","imageUrl":"/content/dam/poc/order/images/large-order-promo/A_Catering-Tile_570x190@2x.jpg","detailsCopyColor":"#786259","detailsCopy@ContentType":"text/html","buttonTextColor":"#ffffff","title":"Catering","navigationLink":"https://catering.chipotle.com/","buttonText":"Explore Catering","backgroundColor":"#ffffff"}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgPromoBottom = {"master":{"jcr:primaryType":"nt:unstructured","titleMain":"THE RICH FLAVOR OF CHORIZO, NOW PLANT-BASED","subtitleMain@ContentType":"text/html","subtitleMain":"<p>Enjoy the flavors of real ingredients like Spanish smoked paprika, adobo chili peppers, and garlic. Plus, 16g of pea protein.<\/p>\n","legalTextColorMain":"#451400","buttonColorMain":"#451400","videoUrlSecondaryDesktop":"/content/dam/chipotle/global-site-design/en/lifestyle-bowls/lsb-2022/BetterYou-ToutVertical.mp4","buttonLinkSecondary":"https://chipotle.com/order","subtitleSecondary@ContentType":"text/html","buttonTextMain":"ORDER NOW","subtitleSecondary":"<p>Be Keto curious or let plant power be your superpower. Whatever your goal may be, we got the right Lifestyle Bowl filled with nutrient-dense, flavor-packed ingredients.<\/p>\n","videoUrlMainDesktop":"/content/dam/chipotle/global-site-design/en/menu-items/plant-based-chorizo/CHP_PBC_SecondaryTout_Desktop.mp4","titleMainPlacement":false,"subtitleMainColor":"#451400","isContentRightAligned":false,"centerAlignedTextOnly":false,"shouldLoopVideo":false,"legalTextSecondary@ContentType":"text/html","buttonColorSecondary":"#451400","titleSecondary":"TRY NEW LIFESTYLE BOWLS ","legalTextColorSecondary":"#451400","videoUrlMainMobile":"/content/dam/chipotle/global-site-design/en/menu-items/plant-based-chorizo/CHP_PBC_SecondaryTout_Mobile.mp4","dualPromo":true,"preTitleMainColor":"#451400","titleMainColor":"#451400","subtitleSecondaryColor":"#451400","showPromoBanner":true,"buttonLinkMain":"https://chipotle.com/order","buttonTextSecondary":"ORDER NOW","videoUrlSecondaryMobile":"/content/dam/chipotle/global-site-design/en/lifestyle-bowls/lsb-2022/BetterYou-ToutHorizontal.mp4","legalTextMain@ContentType":"text/html","shouldLoopSecondaryVideo":true,"shouldLoopMainVideo":true,"titleSecondaryColor":"#451400"}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgLegalCopy = {"master":{"jcr:primaryType":"nt:unstructured","personalPreferenceUS@ContentType":"text/html","interruptModalLoggedInUnEnrolled@ContentType":"text/html","retroCredit":"<p>We do not accept credit requests for app or online purchases at this time. You will have up to 30 days after the purchase to receive credit. If your request is approved, your points will show up in your account in 24-48 hours. If your points do not show up after 48 hours, we may not have been able to grant your request. View our <u><a title=\"Terms And Conditions\" href=\"https://www.chipotle.com/about-us/rewards-terms\" target=\"_blank\">Terms &amp; Conditions<\/a><\/u> for a list of reasons why a request may not be granted. You can always <u><a title=\"Contact Customer Service\" href=\"https://www.chipotle.com/contact-us#report-an-issue\" target=\"_blank\">contact customer service<\/a><\/u> for help.<\/p>\n","retroCredit@ContentType":"text/html","personalPreferenceCanada@ContentType":"text/html","loggedInUnEnrolled":"<p>By joining, I am confirming I am 13 years of age or older, will be enrolled in Chipotle Rewards, will receive email updates, promotions and offers from Chipotle, and agree to <a title=\"Privacy Policy\" href=\"https://www.chipotle.com/about-us/privacy-policy\" target=\"_blank\">Chipotle\u2019s <u>Privacy Policy<\/u><\/a> and <u><a title=\"Terms And Conditions\" href=\"https://www.chipotle.com/about-us/rewards-terms\" target=\"_blank\">Terms &amp; Conditions<\/a><\/u>.<\/p>\n","createAccountOrderConfirmationCanada":"<p>By Creating an account, I agree to&nbsp;<a title=\"Privacy Policy\" href=\"https://www.chipotle.ca/about-us/privacy-policy\" target=\"_blank\">Chipotle's Privacy Policy<\/a>&nbsp;and&nbsp;<u><a title=\"Terms Of Use\" href=\"https://www.chipotle.ca/about-us/terms-of-use\" target=\"_blank\">Terms of Use<\/a>.<\/u><\/p>\n","rewardsPageLoggedInUnEnrolled@ContentType":"text/html","createAccountCanada@ContentType":"text/html","explainerModalLastScreen@ContentType":"text/html","personalPreferenceCanada":"<p>By opting in to \u2018Text,\u2019 I&nbsp;agree to receive Chipotle updates and offers via text and agree to&nbsp;<u><a title=\"Privacy Policy\" href=\"https://www.chipotle.ca/about-us/privacy-policy\" target=\"_blank\">Chipotle's Privacy Policy<\/a><\/u>&nbsp;and&nbsp;<u><a title=\"Terms of Use\" href=\"https://www.chipotle.ca/about-us/terms-of-use\" target=\"_blank\">Terms<\/a>&nbsp;of Use<\/u>.&nbsp;Recurring marketing messages will be sent to your account mobile number using automated technology. Consent is not a condition of purchase. Standard msg and data rates may apply. Text STOP to cancel. Text HELP for help or <a title=\"contact us\" href=\"https://www.chipotle.ca/about-us/privacy-policy#contactus\" target=\"_blank\">contact us<\/a>. By updating this account, I agree to <u><a title=\"Privacy Policy\" href=\"https://www.chipotle.ca/about-us/privacy-policy\" target=\"_blank\">Chipotle's Privacy Policy<\/a><\/u>&nbsp;and&nbsp;<u><a title=\"Terms of Use\" href=\"https://www.chipotle.ca/about-us/terms-of-use\" target=\"_blank\">Terms<\/a>&nbsp;of Use<\/u>.<\/p>\n","accountMgmtLoggedInUnEnrolled@ContentType":"text/html","createAccountCanada":"<p>By Creating an account, I agree to&nbsp;<a title=\"Privacy Policy\" href=\"https://www.chipotle.ca/about-us/privacy-policy\" target=\"_blank\">Chipotle's Privacy Policy<\/a>&nbsp;and&nbsp;<u><a title=\"Terms Of Use\" href=\"https://www.chipotle.ca/about-us/terms-of-use\" target=\"_blank\">Terms of Use<\/a>.<\/u><\/p>\n<p>*By opting in to text, you agree to receive Chipotle updates and offers via text. Recurring automated marketing messages will be sent to your account mobile number. Consent is not a condition of purchase. Standard msg and data rates may apply. Text STOP to cancel. Text HELP for help or&nbsp;<a title=\"contact us\" href=\"https://www.chipotle.ca/about-us/privacy-policy#contactus\" target=\"_blank\">contact us<\/a>.<\/p>\n","createAccountOrderConfirmation":"<p>By creating this account, I am confirming I am 13 years of age or older, will be automatically enrolled in Chipotle Rewards, will receive email updates, promotions and offers from Chipotle, and agree to&nbsp;<u><a title=\"Privacy Policy\" href=\"https://www.chipotle.com/about-us/privacy-policy\" target=\"_blank\">Chipotle's Privacy Policy<\/a><\/u>,&nbsp;<u><a title=\"Terms Of Use\" href=\"https://www.chipotle.com/about-us/terms-of-use\" target=\"_blank\">Terms of Use<\/a><\/u>&nbsp;and&nbsp;<u><a title=\"Rewards Terms and Conditions\" href=\"https://www.chipotle.com/about-us/rewards-terms\" target=\"_blank\">Chipotle Rewards Terms &amp; Conditions<\/a><\/u>.<\/p>\n","loggedInUnEnrolled@ContentType":"text/html","createAccountOrderConfirmationCanada@ContentType":"text/html","createAccount":"<p>By creating this account, I am confirming I am 13 years of age or older, will be automatically enrolled in Chipotle Rewards, will receive email updates, promotions and offers from Chipotle, and agree to <u><a title=\"Privacy Policy\" href=\"https://www.chipotle.com/about-us/privacy-policy\" target=\"_blank\">Chipotle's Privacy Policy<\/a><\/u>, <u><a title=\"Terms Of Use\" href=\"https://www.chipotle.com/about-us/terms-of-use\" target=\"_blank\">Terms of Use<\/a><\/u> and <u><a title=\"Rewards Terms and Conditions\" href=\"https://www.chipotle.com/about-us/rewards-terms\" target=\"_blank\">Chipotle Rewards Terms &amp; Conditions<\/a><\/u>.<\/p>\n<p>*By opting in to text, you agree to receive Chipotle updates and offers via text.&nbsp;Recurring marketing messages will be sent to your account mobile number using automated technology. Consent is not a condition of purchase. Standard msg and data rates may apply. Text STOP to cancel. Text HELP for help.<\/p>\n","personalPreferenceUS":"<p>By joining Chipotle Rewards, I am confirming I am 13 years of age or older, will receive email updates, promotions and offers from Chipotle, and agree to <u><a title=\"Privacy Policy\" href=\"https://www.chipotle.com/about-us/privacy-policy\" target=\"_blank\">Chipotle's Privacy Policy<\/a><\/u>&nbsp;and <u><a title=\"Rewards Terms And Conditions\" href=\"https://www.chipotle.com/about-us/rewards-terms\" target=\"_blank\">Rewards Terms and Conditions<\/a><\/u>.<\/p>\n<p>By opting in to 'Text,' I agree to receive Chipotle updates and offers via text and agree to&nbsp;<u><a title=\"Privacy Policy\" href=\"https://www.chipotle.com/about-us/privacy-policy\">Chipotle's Privacy Policy<\/a><\/u>&nbsp;and&nbsp;<u><a title=\"Terms and Conditions\" href=\"https://www.chipotle.com/about-us/rewards-terms\">Terms and Conditions<\/a><\/u>.&nbsp;Recurring marketing messages will be sent to your account mobile number using automated technology. Standard msg and data rates may apply. Text STOP to cancel. Text HELP for help. By updating this account, I agree to&nbsp;<u><a title=\"Privacy Policy\" href=\"https://www.chipotle.com/about-us/privacy-policy\">Chipotle's Privacy Policy<\/a><\/u>&nbsp;&nbsp;and&nbsp;<u><a title=\"Terms of Use\" href=\"https://www.chipotle.com/about-us/terms-of-use\">Terms of Use<\/a><\/u>.<\/p>\n","createAccount@ContentType":"text/html","createAccountOrderConfirmation@ContentType":"text/html"}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgCanadianFooterContent = {"global_footer":{"jcr:primaryType":"nt:unstructured","sling:resourceType":"chipotle/proxy/components/content/common/global-footer","primary-link":{"jcr:primaryType":"nt:unstructured","primaryTitle":"Footer Title","linkType":"primary","sling:resourceType":"chipotle/components/content/common/multi-links/v1/multi-links","displayTitle":"true","multiLinks":{"jcr:primaryType":"nt:unstructured","item0":{"jcr:primaryType":"nt:unstructured","url":"/content/chipotle/ca/en/contact-us","title":"contact support"},"item1":{"jcr:primaryType":"nt:unstructured","url":"/content/chipotle/ca/en/careers","title":"careers"}}},"colCtrl":{"jcr:primaryType":"nt:unstructured","sling:resourceType":"foundation/components/parsys","columncontrol":{"jcr:primaryType":"nt:unstructured","columns":"footer","sling:resourceType":"chipotle/proxy/components/content/common/columncontrol","parThree":{"jcr:primaryType":"nt:unstructured","sling:resourceType":"foundation/components/parsys","multi_links":{"jcr:primaryType":"nt:unstructured","cq:isCancelledForChildren":true,"primaryTitle":"About","linkType":"secondary","sling:resourceType":"chipotle/proxy/components/content/common/multi-links","displayTitle":"true","multiLinks":{"jcr:primaryType":"nt:unstructured","item0":{"jcr:primaryType":"nt:unstructured","url":"/content/chipotle/ca/en/values","title":"Our Values"},"item1":{"jcr:primaryType":"nt:unstructured","target":"true","url":"https://newsroom.chipotle.com/welcome","title":"News and Events"},"item2":{"jcr:primaryType":"nt:unstructured","target":"true","url":"https://ir.chipotle.com/","title":"Investors"},"item3":{"jcr:primaryType":"nt:unstructured","target":"true","url":"https://www.cultivatefoundation.org/?_ga=2.121943307.105623649.1548614844-615904865.1538359886","title":"Cultivate Foundation"}}}},"parOne":{"jcr:primaryType":"nt:unstructured","sling:resourceType":"foundation/components/parsys","social_icons":{"jcr:primaryType":"nt:unstructured","title":"Connect with us","sling:resourceType":"chipotle/proxy/components/content/common/social-icons","displayTitle":"true","items":{"jcr:primaryType":"nt:unstructured","item0":{"jcr:primaryType":"nt:unstructured","altText":"facebook icon","target":"true","targetURL":"https://www.facebook.com/chipotle","image":"/content/dam/chipotle/global-site-design/en/social-media/facebook/icons/facebook.png"},"item1":{"jcr:primaryType":"nt:unstructured","altText":"instagram icon","target":"true","targetURL":"https://www.instagram.com/chipotle/","image":"/content/dam/chipotle/global-site-design/en/social-media/instrgram/icons/insta.png"},"item2":{"jcr:primaryType":"nt:unstructured","altText":"twitter icon","target":"true","targetURL":"https://twitter.com/chipotletweets","image":"/content/dam/chipotle/global-site-design/en/social-media/twitter/icons/twitter.png"}},"multiLinks":{"jcr:primaryType":"nt:unstructured","item0":{"jcr:primaryType":"nt:unstructured","altText":"facebook icon","target":"true","targetURL":"https://www.facebook.com/chipotle","url":"https://www.facebook.com/chipotle","image":"/content/dam/chipotle/global-site-design/en/social-media/facebook/icons/facebook.png","title":"/content/dam/chipotle/global-site-design/en/social-media/facebook/icons/facebook.png"},"item1":{"jcr:primaryType":"nt:unstructured","altText":"instagram icon","target":"true","targetURL":"https://www.instagram.com/chipotle/","url":"https://www.instagram.com/chipotle/","image":"/content/dam/chipotle/global-site-design/en/social-media/instrgram/icons/insta.png","title":"/content/dam/chipotle/global-site-design/en/social-media/instrgram/icons/insta.png"},"item2":{"jcr:primaryType":"nt:unstructured","altText":"twitter icon","target":"true","targetURL":"https://twitter.com/chipotletweets","url":"https://twitter.com/chipotletweets","image":"/content/dam/chipotle/global-site-design/en/social-media/twitter/icons/twitter.png","title":"/content/dam/chipotle/global-site-design/en/social-media/twitter/icons/twitter.png"}}}},"parTwo":{"jcr:primaryType":"nt:unstructured","sling:resourceType":"foundation/components/parsys","multi_links":{"jcr:primaryType":"nt:unstructured","primaryTitle":"Download our app","displayCTA":"true","linkType":"primary","sling:resourceType":"chipotle/proxy/components/content/common/multi-links","displayTitle":"true","items":{"jcr:primaryType":"nt:unstructured","item0":{"jcr:primaryType":"nt:unstructured","altText":"Download on the App Store","image":"/content/dam/chipotle/global-site-design/en/brand/icons/app/apple-store.png","linkTarget":"true","iconURL":"https://itunes.apple.com/us/app/chipotle/id327228455?mt=8"},"item1":{"jcr:primaryType":"nt:unstructured","altText":"Get it on Google Play","image":"/content/dam/chipotle/global-site-design/en/brand/icons/app/google-play.png","linkTarget":"true","iconURL":"https://play.google.com/store/apps/details?id=com.chipotle.ordering"}}}}},"multi_links":{"jcr:primaryType":"nt:unstructured","sling:resourceType":"chipotle/proxy/components/content/common/multi-links"}},"bootom-link":{"jcr:primaryType":"nt:unstructured","linkType":"tertiary","sling:resourceType":"chipotle/components/content/common/multi-links/v1/multi-links","multiLinks":{"jcr:primaryType":"nt:unstructured","item0":{"jcr:primaryType":"nt:unstructured","url":"/content/chipotle/ca/en/about-us/transparency","title":"California Transparency in Supply Chains Act"},"item1":{"jcr:primaryType":"nt:unstructured","url":"/content/chipotle/ca/en/about-us/terms-of-use","title":"Terms of Use"},"item2":{"jcr:primaryType":"nt:unstructured","url":"/content/chipotle/ca/en/about-us/accessibility","title":"Accessibility Statement"},"item3":{"jcr:primaryType":"nt:unstructured","url":"/content/chipotle/ca/en/about-us/privacy-policy","title":"Privacy Policy"},"item4":{"jcr:primaryType":"nt:unstructured","title":"© 2019 Chipotle Mexican Grill"}}},"bottom-link":{"jcr:primaryType":"nt:unstructured","linkType":"tertiary","sling:resourceType":"chipotle/components/content/common/multi-links/v1/multi-links","multiLinks":{"jcr:primaryType":"nt:unstructured","item0":{"jcr:primaryType":"nt:unstructured","title":"© 2021 Chipotle Mexican Grill"},"item1":{"jcr:primaryType":"nt:unstructured","url":"https://www.chipotle.ca/about-us/accessibility","title":"Accessibility Statement"},"item2":{"jcr:primaryType":"nt:unstructured","url":"https://www.chipotle.ca/about-us/privacy-policy","title":"Privacy Policy "},"item3":{"jcr:primaryType":"nt:unstructured","url":" https://www.chipotle.ca/about-us/terms-of-use","title":"Terms of Use"}}}}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgLoyaltyInterruptModal = {"master":{"jcr:primaryType":"nt:unstructured","subCopy":"With Chipotle Rewards, you'll earn points to score FREE Chipotle. ","salutation":"Welcome, ","howRewardsWorksCta":"HOW REWARDS WORKS","mainCopy":"REWARD YOURSELF WITH FREE CHIPOTLE","joinNowCta":"JOIN NOW","medallionImageUrl":"/content/dam/poc/order/images/icons/pepper-medallion.svg"}};
+        </script>
+    
+        <!-- JSON renderer content fragment -->
+        <script>
+            var _cmgPromoRewardsHeroGuest = {"master":{"jcr:primaryType":"nt:unstructured","titleMain":"F
